@@ -35,16 +35,16 @@ h4 {
     font-size: 1.25rem;
     margin: 12px 0 6px 0;
   }
-credit {
-    font-size: 1.5rem;
+#credit {
+    font-size: 1rem;
     margin-top: 2px;
     margin-bottom: 20px;
     font-family: Arial, Helvetica, sans-serif;
   }
-creditone {
-    font-size: 1.5rem;
+#creditone {
+    font-size: 1rem;
     text-align: right;
-    margin-top: 0.5px;
+    margin-top: 0;
     margin-bottom: 20px;
     font-family: Arial, Helvetica, sans-serif;
   }
@@ -54,10 +54,9 @@ blockquote {
       margin-right: 30px;
   }
 
-comment-notes {
-background-color: #CCC;
-margin-top: 12px;
-margin-bottom: 12px;
-margin-left: 12px;
-margin-right: 12px;
+#commentnotes {
+    padding-left: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 12px;
 }
