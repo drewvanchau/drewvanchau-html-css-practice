@@ -1,4 +1,4 @@
-#HTML practice assignment
+# HTML practice assignment
 
 Drew Van Chau
 
